@@ -1,5 +1,7 @@
 ## Hey! I'm David
 
+<img src="https://user-images.githubusercontent.com/2476329/67257573-843aac00-f441-11e9-86d0-269ab740bc99.jpeg" alt="Me" width="150" height="200">
+
 I'm in my 20s and am an iOS engineer born and raised in Southern California and living in Austin Texas
 
 I currently work at Procore [Procore](https://www.glassdoor.com/Reviews/Procore-Technologies-Reviews-E691343.htm)
