@@ -1,7 +1,13 @@
 ## Hey! I'm David
 
-I'm an iOS engineer born and raised in Southern California and living in Austin Texas.
+I'm in my 20s and am an iOS engineer born and raised in Southern California and living in Austin Texas
+
+I currently work at Procore
 
 I enjoy meditating & reading books about psychology (e.g. habit forming, cognitive biases, self-confidence, and difficult conversations)
 
-More about me will come soon
+I regularly do resistance training with weights, bands, kettlebells, or bodyweight
+
+I appreciate empathetic, authentic, and caring people.
+
+I graduated from the University of California, Santa Barbara with a Computer Science Major
