@@ -1,5 +1,3 @@
-## Hey! I'm David
-
 I'm in my 20s and am an iOS engineer born and raised in Southern California and living in Austin Texas
 
 I currently work at [Procore](https://www.glassdoor.com/Reviews/Procore-Technologies-Reviews-E691343.htm)
