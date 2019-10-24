@@ -4,7 +4,7 @@
 
 I'm in my 20s and am an iOS engineer born and raised in Southern California and living in Austin Texas
 
-I currently work at Procore [Procore](https://www.glassdoor.com/Reviews/Procore-Technologies-Reviews-E691343.htm)
+I currently work at [Procore](https://www.glassdoor.com/Reviews/Procore-Technologies-Reviews-E691343.htm)
 
 I enjoy meditating & reading books about psychology (e.g. habit forming, cognitive biases, self-confidence, and difficult conversations)
 
